@@ -134,7 +134,7 @@ letter-spacing: 0.04em;
         letter-spacing: 0.02em;
 }
 
-.team-list {
+.team-item {
     background-color: #FFFFFF;
 }
 
@@ -185,7 +185,6 @@ letter-spacing: 0.04em;
     color: #4d5ae5;
 }
 
-.footer-logo,
 .footer-paragraph,
 .footer-logo-accent {
     color: #F4F4FD;
