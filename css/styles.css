@@ -30,7 +30,6 @@ button {
     cursor: pointer;
 }
 
-
 .solutions,
 .footer {
     background-color: #2E2F42;
@@ -52,13 +51,9 @@ button {
     text-decoration: none;
 }
 
-
-
-.header-logo-accent,
-.footer-logo-accent {
+.header-logo-accent {
     color: #2e2f42;
 } 
-
 
 .header-item-link {
     color: #2E2F42;
@@ -122,7 +117,6 @@ letter-spacing: 0.04em;
     color: #2E2F42
 }
 
-
 .team-title {
         text-align: center;
         font-size: 36px;
@@ -182,6 +176,7 @@ letter-spacing: 0.04em;
     color: #4d5ae5;
 }
 
+.footer-logo-accent,
 .footer-paragraph {
     color: #F4F4FD;
 }
