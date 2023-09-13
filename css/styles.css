@@ -36,11 +36,6 @@ button {
     background-color: #2E2F42;
 }
 
-.team {
-    background-color: #F4F4FD;
-}
-
-
 .header-nav {
     color: #2E2F42;
 }
@@ -90,9 +85,9 @@ button {
 .solutions-title {
     color:#FFFFFF;
     text-align: center;
-        font-size: 56px;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 .solutions-btn {
@@ -123,8 +118,10 @@ letter-spacing: 0.04em;
 }
 
 .team {
+    background-color: #F4F4FD;
     color: #2E2F42
 }
+
 
 .team-title {
         text-align: center;
@@ -161,7 +158,7 @@ letter-spacing: 0.04em;
         font-size: 36px;
         line-height: 1.11;
         text-transform: capitalize;
-                letter-spacing: 0.02em;
+        letter-spacing: 0.02em;
 }
 
 .portfolio-subtitle {
@@ -185,7 +182,6 @@ letter-spacing: 0.04em;
     color: #4d5ae5;
 }
 
-.footer-paragraph,
-.footer-logo-accent {
+.footer-paragraph {
     color: #F4F4FD;
 }
